@@ -1,0 +1,352 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ans",
+				"ansdict"
+			],
+			[
+				"a",
+				"ansdict"
+			],
+			[
+				"optio",
+				"option_d"
+			],
+			[
+				"opt",
+				"option_c"
+			],
+			[
+				"opti",
+				"option_a"
+			],
+			[
+				"id",
+				"id_array"
+			],
+			[
+				"total",
+				"total_questions_mcq"
+			],
+			[
+				"o",
+				"objects"
+			],
+			[
+				"regis",
+				"register"
+			],
+			[
+				"auth",
+				"authenticate"
+			],
+			[
+				"usern",
+				"username"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"regs",
+				"register_view"
+			],
+			[
+				"register",
+				"register_view"
+			],
+			[
+				"my",
+				"my_context"
+			],
+			[
+				"soc",
+				"social_view"
+			],
+			[
+				"about",
+				"about_view"
+			],
+			[
+				"home",
+				"home_view"
+			],
+			[
+				"paddi",
+				"padding-bottom\tproperty"
+			],
+			[
+				"mar",
+				"margin-top\tproperty"
+			],
+			[
+				"fon",
+				"font-size\tproperty"
+			],
+			[
+				"page",
+				"page001"
+			],
+			[
+				"b",
+				"basefont\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/run/user/1000/gvfs/mtp:host=%5Busb%3A001%2C018%5D/Internal shared storage/WhatsApp/Media/WhatsApp Documents/Server.enc",
+		"/run/user/1000/gvfs/mtp:host=%5Busb%3A001%2C017%5D/Internal shared storage/WhatsApp/Media/WhatsApp Documents/dhcp_server.enc",
+		"/home/darealappu/Desktop/CNL Practise/A4/Go Back N/Client.py",
+		"/home/darealappu/Desktop/CNL Practise/A4/Go Back N/Server.py",
+		"/run/user/1000/gvfs/mtp:host=%5Busb%3A001%2C017%5D/Internal shared storage/WhatsApp/Media/WhatsApp Documents/Server.enc",
+		"/home/darealappu/Desktop/CNL Practise/B4/P2P/Server.py",
+		"/home/darealappu/Desktop/CNL Practise/B4/P2P/Client.py",
+		"/run/user/1000/gvfs/mtp:host=%5Busb%3A001%2C017%5D/Internal shared storage/WhatsApp/Media/WhatsApp Documents/client-1.enc",
+		"/run/user/1000/gvfs/mtp:host=%5Busb%3A001%2C017%5D/Internal shared storage/WhatsApp/Media/WhatsApp Documents/Server_multi.enc",
+		"/run/user/1000/gvfs/mtp:host=%5Busb%3A001%2C017%5D/Internal shared storage/WhatsApp/Media/WhatsApp Documents/Client_multi.enc",
+		"/home/darealappu/Documents/Terminal Commands to start a Django Project",
+		"/home/darealappu/BD_DBMS/src/Blood_Donation/settings.py",
+		"/home/darealappu/BD_DBMS/src/registrationform/admin.py",
+		"/home/darealappu/BD_DBMS/src/Blood_Donation/urls.py",
+		"/home/darealappu/BD_DBMS/src/registrationform/models.py",
+		"/home/darealappu/BD_DBMS/src/registrationform/views.py",
+		"/home/darealappu/BD_DBMS/src/manage.py",
+		"/home/darealappu/MCQ_Project/src/mcq/urls.py",
+		"/home/darealappu/MCQ_Project/src/pages/views.py",
+		"/media/darealappu/RAGHAV/questions.html",
+		"/home/darealappu/MCQ_Project/src/test_submit/views.py",
+		"/home/darealappu/MCQ_Project/src/templates/questions.html",
+		"/home/darealappu/MCQ_Project/src2/manage.py",
+		"/home/darealappu/mcq_project/src/templates/questions.html",
+		"/home/darealappu/MCQ_Project/src/hello.py",
+		"/home/darealappu/MCQ_Project/src2/questions/views.py",
+		"/home/darealappu/MCQ_Project/src2/templates/base.html",
+		"/home/darealappu/mcq_project/src0002/pages/views.py",
+		"/home/darealappu/mcq_project/src0002/questions/addranq.py",
+		"/home/darealappu/mcq_project/src0002/questions/models.py",
+		"/home/darealappu/mcq_project/src/pages/views.py",
+		"/home/darealappu/mcq_project/src/questions/models.py",
+		"/home/darealappu/mcq_project/src/manage.py",
+		"/home/darealappu/mcq_project/src0001/pages/views.py",
+		"/home/darealappu/MCQ_Project/src/manage.py",
+		"/home/darealappu/mcq_project/src/templates/questions2.html",
+		"/home/darealappu/mcq_project/src0001/templates/questions.html",
+		"/home/darealappu/mcq_project/include/python3.6m/asdl.h",
+		"/home/darealappu/mcq_project/src/userstats/models.py",
+		"/home/darealappu/mcq_project/src/userstats/admin.py",
+		"/home/darealappu/mcq_project/src/templates/loggedin.html",
+		"/home/darealappu/mcq_project/src/templates/base.html",
+		"/home/darealappu/mcq_project/src/mcq/urls.py",
+		"/home/darealappu/mcq_project/src/mcq/settings.py",
+		"/home/darealappu/mcq_project/src/pages/models.py",
+		"/home/darealappu/mcq_project/src0001/manage.py",
+		"/home/darealappu/mcq_project/src/templates/home.html",
+		"/home/darealappu/mcq_project/src/templates/register.html",
+		"/home/darealappu/mcq_project/src/templates/home2.html",
+		"/home/darealappu/mcq_project/src/templates/loggedout.html",
+		"/home/darealappu/MCQ_Project/src/templates/register2.html",
+		"/home/darealappu/MCQ_Project/src/templates/register.html",
+		"/home/darealappu/MCQ_Project/src/mcq/settings.py",
+		"/home/darealappu/MCQ_Project/src/pages/__init__.py",
+		"/home/darealappu/MCQ_Project/src/questions/views.py",
+		"/home/darealappu/MCQ_Project/src/templates/home.html",
+		"/home/darealappu/MCQ_Project/src/templates/loggedin.html",
+		"/home/darealappu/MCQ_Project/src/questions/models.py",
+		"/home/darealappu/MCQ_Project/src/questions/admin.py",
+		"/home/darealappu/MCQ_Project/src/questions/migrations/__init__.py",
+		"/home/darealappu/MCQ_Project/src/pages/models.py",
+		"/home/darealappu/MCQ_Project/src/pages/admin.py",
+		"/home/darealappu/MCQ_Project/src/mcq/wsgi.py",
+		"/home/darealappu/example/src/exam/exam/settings.py",
+		"/home/darealappu/MCQ_Project/src/home/views.py",
+		"/home/darealappu/MCQ_Project/src/loggedin/views.py",
+		"/home/darealappu/MCQ_Project/src/mcq/__init__.py",
+		"/home/darealappu/WebDev/thenewboston Django Tutorial/trialrun/music/views.py",
+		"/home/darealappu/WebDev/thenewboston Django Tutorial/trialrun/trialrun/urls.py",
+		"/home/darealappu/WebDev/thenewboston Django Tutorial/trialrun/music/urls.py",
+		"/home/darealappu/WebDev/thenewboston Django Tutorial/trialrun/trialrun/wsgi.py",
+		"/home/darealappu/WebDev/thenewboston Django Tutorial/trialrun/trialrun/__init__.py",
+		"/home/darealappu/WebDev/thenewboston Django Tutorial/trialrun/manage.py",
+		"/home/darealappu/freeCodeCamp/dev/trydjango/src/templates/about.html",
+		"/home/darealappu/freeCodeCamp/dev/trydjango/src/pages/views.py",
+		"/home/darealappu/freeCodeCamp/dev/trydjango/src/trydjango/settings.py",
+		"/home/darealappu/freeCodeCamp/dev/trydjango/src/trydjango/urls.py",
+		"/home/darealappu/freeCodeCamp/dev/trydjango/src/products/models.py",
+		"/home/darealappu/freeCodeCamp/dev/trydjango/src/products/admin.py",
+		"/home/darealappu/freeCodeCamp/dev/trydjango/src/templates/base.html",
+		"/home/darealappu/freeCodeCamp/dev/trydjango/src/templates/social.html",
+		"/home/darealappu/freeCodeCamp/dev/trydjango/src/templates/home.html",
+		"/home/darealappu/freeCodeCamp/dev/trydjango/src/templates/contact.html",
+		"/home/darealappu/freeCodeCamp/dev/trydjango/src/trydjango.sublime-workspace",
+		"/home/darealappu/freeCodeCamp/dev/trydjango/src/products/migrations/0002_product_featured.py",
+		"/home/darealappu/freeCodeCamp/dev/trydjango/src/manage.py",
+		"/home/darealappu/freeCodeCamp/dev/trydjango/src/products/migrations/0001_initial.py",
+		"/home/darealappu/freeCodeCamp/dev/trydjango/src/trydjango.sublime-project",
+		"/home/darealappu/WebDev/AshutoshPoems/page001.html",
+		"/home/darealappu/WebDev/AshutoshPoems/style.css",
+		"/home/darealappu/Downloads/Example/style.css",
+		"/home/darealappu/Downloads/Example/index.html",
+		"/home/darealappu/Desktop/21106/ADSL/Assignment13/ass13/src/ass13/ass13.java",
+		"/home/darealappu/WebDev/WhateverILearnt/page003.html",
+		"/home/darealappu/WebDev/WhateverILearnt/page001.html",
+		"/home/darealappu/WebDev/WhateverILearnt/page002.html"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 49.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "db.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 50.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
