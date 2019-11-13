@@ -25,7 +25,7 @@ SECRET_KEY = '6t8l+-#zlh4p0fu2x*_1=w+ne7#_3884-&4vp=q2zp)9#rc5k@'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [ ]
 
 
 # Application definition
@@ -56,7 +56,7 @@ ROOT_URLCONF = 'Fitbit.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [],
+        'DIRS': [ os.path.join(BASE_DIR, 'static/') ],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
