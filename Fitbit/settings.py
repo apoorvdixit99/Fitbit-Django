@@ -11,6 +11,10 @@ https://docs.djangoproject.com/en/2.1/ref/settings/
 """
 
 import os
+import fitbit
+
+FITAPP_CONSUMER_KEY = '22BDTJ'
+FITAPP_CONSUMER_SECRET = '124ad5d04916392dad79f64c07b19c8141c0124f'
 
 # Build paths inside the project like this: os.path.join(BASE_DIR, ...)
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -25,7 +29,7 @@ SECRET_KEY = '6t8l+-#zlh4p0fu2x*_1=w+ne7#_3884-&4vp=q2zp)9#rc5k@'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = [ 
+ALLOWED_HOSTS = [
     '127.0.0.1',
     'apoorvdixit.pythonanywhere.com'
 ]
@@ -43,6 +47,8 @@ INSTALLED_APPS = [
 
     'pages',
 ]
+
+#INSTALLED_APPS += ['fitapp']
 
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
