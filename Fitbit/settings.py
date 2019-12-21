@@ -11,8 +11,8 @@ https://docs.djangoproject.com/en/2.1/ref/settings/
 """
 
 import os
-import fitbit
 
+#FitBit
 FITAPP_CONSUMER_KEY = '22BDTJ'
 FITAPP_CONSUMER_SECRET = '124ad5d04916392dad79f64c07b19c8141c0124f'
 
