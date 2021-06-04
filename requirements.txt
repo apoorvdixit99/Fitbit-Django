@@ -1,4 +1,4 @@
-Django==2.2.9
+Django==2.2.21
 CherryPy==18.5.0
 django-fitbit==0.3.0
 pandas==0.25.3
